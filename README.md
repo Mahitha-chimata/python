@@ -1,4 +1,4 @@
-# python
+# Event Reminder
 
 This project is a straightforward application that generates a notification message in the form of a pop-up message on the desktop. 
 The main objective of the desktop notification application that we will learn to develop today is to constantly remind us of the different things that we require to accomplish throughout the day.
